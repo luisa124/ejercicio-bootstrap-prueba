@@ -50,4 +50,19 @@ header .action h1 {
     text-transform: uppercase;
 }
 
+/* funciones de servico de mi css */
+.servicio {
+    padding: 0px 30px;
+}
+
+.servicio h3{
+    text-transform: uppercase;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+}
+
+.servicio i{
+    font-size: 6em;
+    margin-bottom: 15px;
+}
 
